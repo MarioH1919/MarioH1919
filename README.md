@@ -21,12 +21,12 @@ Hey! I'm **Bob Bobinger**, also known as **CookieBob**. I love turning ideas int
 ## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioH1919&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=E8A87C&icon_color=E8A87C&text_color=C9BBA8&bg_color=1E1712" alt="GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=MarioH1919&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=E8A87C&icon_color=E8A87C&text_color=C9BBA8&bg_color=1E1712" alt="GitHub stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=MarioH1919&theme=transparent&hide_border=true&ring=E8A87C&fire=E8A87C&currStreakNum=FDF6EC&sideNums=E8A87C&currStreakLabel=FDF6EC&sideLabels=FDF6EC&dates=9C8B7A" alt="GitHub streak" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioH1919&layout=compact&theme=transparent&hide_border=true&title_color=E8A87C&text_color=C9BBA8&bg_color=1E1712" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MarioH1919&layout=compact&theme=transparent&hide_border=true&title_color=E8A87C&text_color=C9BBA8&bg_color=1E1712" alt="Top languages" />
 </div>
 
 ## 🚀 Find me here
