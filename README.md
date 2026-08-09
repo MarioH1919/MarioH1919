@@ -13,7 +13,7 @@
 
 Hey! I'm **Bob Bobinger**, also known as **CookieBob**. I love turning ideas into code — whether it's web apps, tools, or games. I'm always baking up something new and always happy to learn.
 
-- 🔭 I'm currently working on projects at **[CookieBob](https://github.com/CookieBob-Programming)**
+- 🔭 I'm currently working on projects at **[CookieBob Programming](https://github.com/CookieBob-Programming)**
 - 🌱 Constantly exploring new technologies and sharpening my skills
 - 🎯 Building things that are useful, clean, and fun
 - ⚡ Fun fact: my favorite debugging tool is a fresh batch of cookies 🍪
