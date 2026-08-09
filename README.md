@@ -5,8 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://www.google.com/s2/favicons?domain=cookiebob.com&sz=64" width="20" height="20" alt="CookieBob.com favicon"/>
-  <img src="https://img.shields.io/badge/CookieBob-CookieBob.com-8B5E3C?style=for-the-badge" alt="CookieBob.com"/>
+  <img src="https://img.shields.io/badge/CookieBob-CookieBob.com-8B5E3C?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAQlBMVEVHcExmcn7XzquMl5kxSWdHWnNLXHAkR2srRmY3Tmld0fJZy%2B5UxupOvuU0lchJtN44m8xBptMpX4Y5irQwdJ1x2PSs4G5SAAAACnRSTlMAFgMKlkIv%2Bs1lbAfw8wAAArtJREFUWIXtVsmWozAMTAiJvOJF5v9%2FdSQvBDrYSc%2BbwxxSzXt9CFUul2Tky%2BWLL%2F5v3OQsgCDEfP8LuhQRg9VKaRswwm81JKBZCarCksYvJB6Q9I6uGXYBMX3In6PNdN3WZwljXILHR3yBe%2FOZr1jAOvxIQfiNvu4ESMGETxREqPT1YCArUD3g9m7%2FuHqv1M8NFAfGhSTG%2FEdc1xgP67cysIINAeRQAMyTVjW0tS0DtoAw4ktcbSU3ulIQMz87IAtxZAGUhRQJCTE4XRScaxGQwNjCHZV1zDL8YoqQFrtLgBWc94OeFvaYv3IYI9osUbdgg0%2FzYAda1edZgZDAbQZYoL%2BHO%2FBiezrHrxQ2A0UgwPWcP83RZ8KmoVsAlc8CFEK3DsInJrR96BZfy9DaItANIbpUTOvSvm15ZvNJMEUgjAUqUe359Ocqnx1g5zxcIaLaqBs98xErfSTwiN7qI0yJT6ekbRFwJLB06vhIqkW2X5342PgssAwECt1sIrV4Dkp8jp%2FQd3CN7Nbs%2FRcJOhF8DItI8EtP4AK1YauOMbWDA9DhRHQZJMAhnn7ZwG50U2uf%2B8d4OuIp74Az9IkH3tmXSQR%2B%2BwXsPISSgAsLCUQ8bcdJJu6Wo0ZLv1SgRJCoEP7sA38FfreJ5Me2BmR6iZCqQCKnZ3oS6OqKT2JrwGLAF%2FqyxNPP0j0GZ1%2FhGkJlL90DKZL3zh5E3JNf6fSvP14g0c9sI5tu3Zd3zy1Y4KO4dCb9dGUFfofr1oyHzXr%2BCeNgvE03wUVe%2BqCrynC4TZOEroTHdNqBPyEBaDSVuA4CwHet6f1FZ5KRphKp8IxLdA4Ai%2Fs3o31nIZbdznJmyDllgcFIOhogBzn41m10SHIlhnN5jyvw%2BxRY3e0dcjURPr3mXeoNt7X7TJlyKJ8aeMVDSnnvDMQvvvg3%2BAO9UE2InJlebgAAAABJRU5ErkJggg%3D%3D" alt="CookieBob.com"/>
   <img src="https://img.shields.io/badge/GitHub-Organization-8B5E3C?style=for-the-badge&logo=github&logoColor=white" alt="Organization"/>
 </p>
 
