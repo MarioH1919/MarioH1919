@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&duration=3500&pause=900&color=E8A87C&center=true&vCenter=true&width=620&height=60&lines=Hi+there%2C+I'm+Bob Bobinger+%F0%9F%91%8B;I+go+by+CookieBob+%F0%9F%8D%AA;Developer+%E2%80%A2+Builder+%E2%80%A2+Problem+Solver;Welcome+to+my+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&duration=3500&pause=900&color=E8A87C&center=true&vCenter=true&width=620&height=60&lines=Hi+there%2C+I'm+Bob+%F0%9F%91%8B;I+go+by+CookieBob+%F0%9F%8D%AA;Developer+%E2%80%A2+Builder+%E2%80%A2+Problem+Solver;Welcome+to+my+GitHub" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,12 +21,12 @@ Hey! I'm **Bob Bobinger**, also known as **CookieBob**. I love turning ideas int
 ## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bob BobingerH1919&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=E8A87C&icon_color=E8A87C&text_color=C9BBA8&bg_color=1E1712" alt="GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bob BobingerH1919&theme=transparent&hide_border=true&ring=E8A87C&fire=E8A87C&currStreakNum=FDF6EC&sideNums=E8A87C&currStreakLabel=FDF6EC&sideLabels=FDF6EC&dates=9C8B7A" alt="GitHub streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioH1919&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=E8A87C&icon_color=E8A87C&text_color=C9BBA8&bg_color=1E1712" alt="GitHub stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioH1919&theme=transparent&hide_border=true&ring=E8A87C&fire=E8A87C&currStreakNum=FDF6EC&sideNums=E8A87C&currStreakLabel=FDF6EC&sideLabels=FDF6EC&dates=9C8B7A" alt="GitHub streak" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bob BobingerH1919&layout=compact&theme=transparent&hide_border=true&title_color=E8A87C&text_color=C9BBA8&bg_color=1E1712" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioH1919&layout=compact&theme=transparent&hide_border=true&title_color=E8A87C&text_color=C9BBA8&bg_color=1E1712" alt="Top languages" />
 </div>
 
 ## 🚀 Find me here
@@ -59,5 +59,5 @@ Hey! I'm **Bob Bobinger**, also known as **CookieBob**. I love turning ideas int
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bob BobingerH1919&color=E8A87C&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MarioH1919&color=E8A87C&style=flat-square" alt="Profile views" />
 </p>
