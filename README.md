@@ -5,7 +5,8 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CookieBob.com-CookieBob.com-8B5E3C?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
+  <img src="https://www.google.com/s2/favicons?domain=cookiebob.com&sz=64" width="20" height="20" alt="CookieBob.com favicon"/>
+  <img src="https://img.shields.io/badge/CookieBob-CookieBob.com-8B5E3C?style=for-the-badge" alt="CookieBob.com"/>
   <img src="https://img.shields.io/badge/GitHub-Organization-8B5E3C?style=for-the-badge&logo=github&logoColor=white" alt="Organization"/>
 </p>
 
