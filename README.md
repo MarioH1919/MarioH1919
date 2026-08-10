@@ -28,7 +28,7 @@ Hey! I'm **Bob Bobinger**, also known as **CookieBob/MarioH1919**. I love turnin
 
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MarioH1919&layout=compact&theme=transparent&hide_border=true&title_color=E8A87C&text_color=C9BBA8&bg_color=1E1712" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=MarioH1919&theme=radical" alt="GitHub stats" />
 </div>
 
 ## 🚀 Find me here
