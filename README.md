@@ -11,7 +11,7 @@
 
 ## 🍪 About me
 
-Hey! I'm **Bob Bobinger**, also known as **CookieBob**. I love turning ideas into code — whether it's web apps, tools, or games. I'm always baking up something new and always happy to learn.
+Hey! I'm **Bob Bobinger**, also known as **CookieBob/MarioH1919**. I love turning ideas into code — whether it's web apps, tools, or games. I'm always baking up something new and always happy to learn.
 
 - 🔭 I'm currently working on projects at **[CookieBob Programming](https://github.com/CookieBob-Programming)**
 - 🌱 Constantly exploring new technologies and sharpening my skills
